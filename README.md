@@ -5,7 +5,7 @@ This script will allow you to simulate playing those notes to skip through witho
 # How does this work
 You press **Ctrl** button on your keyboard and the currently highlighted note automatically gets played, regardless of whether it's a combo of 10 keys or just a single key. Think of it as a skip button. 
 
-# How to install
+# How to use
 1. In your browser open inspect (right click anywhere and choose the Inspect/Inspect element option)
 2. Go to console tab
 3. Paste the following script in there and press Enter

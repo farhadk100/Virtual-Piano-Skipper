@@ -1,5 +1,6 @@
 # Virtual-Piano-Skipper
-Skip technically impossible notes on VirtualPiano.net
+This script is created to help play those impossible notes on VirtualPiano.net. There are always those note combos that are just impossible to play on a keyboard, either because the keyboard can't handle those many keys pressed together, or cause finger positioning are almost impossible, or simply because you have to mix a shifted and unshifted key together. 
+This script will allow you to simulate playing those notes to skip through without ruining the melody and your flow.
 
 # How does this work
 You press **Ctrl** button on your keyboard and the currently highlighted note automatically gets played, regardless of whether it's a combo of 10 keys or just a single key. Think of it as a skip button. 
